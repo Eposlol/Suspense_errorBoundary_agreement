@@ -1,2 +1,2 @@
-# Suspense_errorBoundary_areement
+# Suspense_errorBoundary_agreement
 Created with CodeSandbox
