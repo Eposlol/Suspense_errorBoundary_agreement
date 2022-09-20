@@ -1,0 +1,2 @@
+# Suspense_errorBoundary_areement
+Created with CodeSandbox
